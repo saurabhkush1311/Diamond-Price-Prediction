@@ -1,8 +1,0 @@
-[ 2023-12-25 15:00:34,377 ] 96 werkzeug - WARNING -  * Debugger is active!
-[ 2023-12-25 15:00:34,390 ] 96 werkzeug - INFO -  * Debugger PIN: 757-284-485
-[ 2023-12-25 15:00:39,938 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Dec/2023 15:00:39] "GET / HTTP/1.1" 200 -
-[ 2023-12-25 15:01:21,419 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Dec/2023 15:01:21] "GET / HTTP/1.1" 200 -
-[ 2023-12-25 15:01:21,571 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Dec/2023 15:01:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-[ 2023-12-25 15:01:27,913 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Dec/2023 15:01:27] "GET /predict HTTP/1.1" 200 -
-[ 2023-12-25 15:01:52,085 ] 67 root - INFO - Dataframe Gathered
-[ 2023-12-25 15:01:52,445 ] 96 werkzeug - INFO - 127.0.0.1 - - [25/Dec/2023 15:01:52] "POST /predict HTTP/1.1" 200 -
